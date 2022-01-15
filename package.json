@@ -31,7 +31,7 @@
     "gts": "^1.1.2",
     "nodemon": "^2.0.1",
     "progress-bar-webpack-plugin": "^2.1.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "ts-loader": "^7.0.0",
     "ts-node": "^8.5.4",
     "tslint": "^6.0.0",
